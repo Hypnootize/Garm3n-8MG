@@ -1,29 +1,10 @@
 "GameMenu" 
 {
-	"CasualButton"
-	{
-		"label" "Play Casual" 
-		"command" "play_casual"
-		"subimage" "glyph_practice"
-	}
-	"MvMButton"
-	{
-		"label" "Play MvM" 
-		"command" "play_mvm"
-		"subimage" "glyph_practice"
-	}
-	"CompetitiveButton"
-	{
-		"label" "Play Competitive" 
-		"command" "play_competitive"
-		"subimage" "glyph_practice"
-	}
 	"CreateServerButton"
 	{
 		"label" "#GameUI_GameMenu_CreateServer"
 		"command" "OpenCreateMultiplayerGameDialog"
 		"subimage" "glyph_practice"
-		"OnlyAtMenu" "0"
 	}
 	"ServerBrowserButton"
 	{
@@ -61,13 +42,6 @@
 	{
 		"label" "#MMenu_AdvOptions"
 		"command" "opentf2options"
-		"subimage" "glyph_practice"
-		"OnlyAtMenu" "0"
-	}
-	"NewUserForumsButton"
-	{
-		"label" "Forum"
-		"command" "view_newuser_forums"
 		"subimage" "glyph_practice"
 		"OnlyAtMenu" "0"
 	}
