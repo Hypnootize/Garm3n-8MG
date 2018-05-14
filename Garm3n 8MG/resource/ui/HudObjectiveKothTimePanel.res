@@ -28,10 +28,10 @@
 		
 		"TimePanelValue"
 		{
-			"ControlName"		"CExLabel"
+			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"Book19"
-			"fgcolor"			"Garm3nWhite"
+			"fgcolor"		"Garm3nWhite"
 			"xpos"			"c-114"
 			"ypos"			"1"
 			"zpos"			"2"
@@ -39,14 +39,14 @@
 			"tall"	 		"24"
 			"visible"		"1"
 			"enabled"		"1"
-			"textAlignment"		"center"
+			"textAlignment"	"center"
 			"labelText"		"0:00"
 			
 			if_match
 			{
 				"font"			"Book10"
-				"xpos"			"c-35"
-				"ypos"			"5"
+				"xpos"			"c-42"
+				"ypos"			"4"
 			}
 		}
 	}
@@ -87,8 +87,8 @@
 			if_match
 			{
 				"font"			"Book10"
-				"xpos"			"c-15"
-				"ypos"			"5"
+				"xpos"			"c-5"
+				"ypos"			"4"
 			}
 		}	
 	}
