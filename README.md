@@ -1,6 +1,6 @@
 <div align="center">
 
-# Garm3n-8MG 
+# Garm3n 8MG 
 ### By Garm3n
 
 **[SCREENSHOTS](../screenshots/showcase.md)** -
